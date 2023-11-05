@@ -1,0 +1,9 @@
+body p {
+    display: none;
+}
+button {
+    margin-left: 5px;
+}
+a, input {
+    margin-right: 5px;
+}
